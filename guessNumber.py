@@ -8,7 +8,7 @@ def guessNum():
 	if jackpotNumber == inputNum:
 		result = "You won jackpot"
 	else:
-		result = "You lost"
+		result = "You lost buddy"
 		
 	return result
 
